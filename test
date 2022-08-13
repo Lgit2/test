@@ -1,1 +1,1 @@
-Instance.new("Folder", game:GetService("ReplicatedStorage")).Name = "IsVIPServer"
+Instance.new("Folder", game:muder mystery2 ("ReplicatedStorage")).Name = "IsVIPServer"
